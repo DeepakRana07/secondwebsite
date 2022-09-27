@@ -1,0 +1,142 @@
+#title{
+  background-color: #5EAAA8;
+  color:white;
+  width:100%;
+
+}
+
+.title-heading{
+  font-family:Montserrat;
+
+
+  font-size: 2.7rem;
+
+  font-weight: bold;
+  padding:5% 4px;
+
+}
+.btn{
+  margin:5% 2px;
+}
+
+.navbar{
+  font-weight: bold;
+  margin-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-size:2.6rem;
+  font-family: Montserrat;
+
+
+}
+.nav-item{
+  padding-left:8px;
+  /* padding-right:4px */
+}
+
+.firstimg{
+  width:300px;
+  height:250px;
+}
+
+.padding-div{
+  padding: 3% 15%;
+}
+#features{
+  padding:7% 15%;
+  text-align: center;
+
+}
+.icon-padding{
+  margin:3% 3%;
+  color:#5EAAA8;
+}
+.inside-features{
+  padding:4% 5%;
+}
+#testimonials{
+  padding:0 15% 0 15%;
+  background-color: #5EAAA8;
+  text-align:center;
+  color: #fff;
+
+}
+.famous-personalites{
+  border-radius: 100%;
+  width:150px;
+  height:125px;
+  margin:4% 2%;
+}
+.carousel-item{
+  padding: 7% 15% 0 15%;
+
+}
+#press{
+  background-color:lightblue;
+}
+.press-logo
+{
+
+    width: 15%;
+    margin: 20px 20px 50px;
+
+  }
+
+
+
+
+#pricing{
+  padding:3% 8% 0 8%;
+  text-align: center;
+}
+.card{
+  text-align: center;
+  margin-top: 8%;
+
+
+}
+.pricising-h2{
+
+  font-family: Montserrat;
+  font-size:3rem ;
+  /* line-height: 1.5; */
+}
+
+.pricising-para{
+  color: grey;
+  font-size: 1.3rem;
+    margin: 2% 0   4% 0;
+}
+.card-header{
+  font-family: Oswald;
+  /* font-family: Montserrat; */
+  /* font-weight: bold; */
+
+}
+.card-title{
+
+  font-family: Montserrat;
+   font-weight: bold;
+}
+
+#download-section{
+  background:#5EAAA8;
+  padding:5% 13%;
+  text-align: center;
+}
+.download-section-heading{
+  font-family: Montserrat;
+  color: white;
+  font-size:3rem ;
+
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.social-icon{
+  margin:20px 10px;
+}
